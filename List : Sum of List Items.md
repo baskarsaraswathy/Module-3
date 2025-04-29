@@ -18,5 +18,6 @@ print(sum(l))
 ## Output
 ![image](https://github.com/user-attachments/assets/3afc3aec-31b7-45cb-971d-7f0534d68a59)
 
+
 ## Result
 Thus,the Python program that calculates the **sum of all elements** in a list is created successfully.
