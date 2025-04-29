@@ -15,6 +15,7 @@ To write a Python program that accepts a string and removes the character at a s
 8. Print the final result.
 
 ## 💻 Program
+```
 def remove(text):
     result = ''
     for i in range(len(text)):
@@ -23,7 +24,7 @@ def remove(text):
     return result
 print(remove("learning")) 
 
-
+```
 ## Output
 ![image](https://github.com/user-attachments/assets/93569b3b-d69c-4ce8-9cba-e74fbbc19b21)
 
